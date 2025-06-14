@@ -18,7 +18,7 @@ My background blends full-stack engineering and product communication, and I’m
 ## Where to find me
 
 - [arvildey.com](https://arvildey.com)
-- [LinkedIn](https://linkedin.com/in/arvildey)
+- [LinkedIn](https://www.linkedin.com/in/arvil-dey/)
 - [Email me](mailto:arvildey@gmail.com)
 
 ---
